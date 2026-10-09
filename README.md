@@ -1,4 +1,4 @@
-Hello, everyone
+Hello, everyone,
 I'm Zeebran
 - 🌱 I’m currently doing projects on electronics
 - 🤔 I’m looking for help with learning PCB Design
